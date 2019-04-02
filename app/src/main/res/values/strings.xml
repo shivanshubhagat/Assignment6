@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multi Screen Api</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_content_description">"USER IMAGE"</string>
+    <string name="no_user">No User Selected , Select a user from Above List.</string>
+    <string name="button_text">SHOW POSTS</string>
+
+
+</resources>

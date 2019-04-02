@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="post_title">30sp</dimen>
+    <dimen name="name">15sp</dimen>
+    <dimen name="id">20sp</dimen>
+    <dimen name="padding">30dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="line_thickness">2dp</dimen>
+
+</resources>
